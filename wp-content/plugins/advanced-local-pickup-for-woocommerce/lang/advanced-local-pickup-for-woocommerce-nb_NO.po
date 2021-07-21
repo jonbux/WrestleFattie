@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Local Pickup for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-05 12:01+0000\n"
+"PO-Revision-Date: 2021-06-28 04:01+0000\n"
+"Language-Team: Norwegian (Bokmål)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.2\n"
+"Last-Translator: \n"
+"Language: nb_NO"
+
+#: include/views/wclp_locations_tab.php:63
+msgid " Get to the Advanced Local Pickup Pro"
+msgstr " Gå til Advanced Local Pickup Pro"
+
+#: include/wc-local-pickup-admin.php:1439
+#: include/views/wclp-edit-location-form.php:397
+#: include/views/wclp_pickup_location_instruction_preview.php:192
+#: templates/emails/pickup-instruction.php:134
+#: templates/myaccount/pickup-instruction.php:134
+#: templates/emails/plain/pickup-instruction.php:115
+msgid " To"
+msgstr " Til"
+
+#: include/views/wclp-edit-location-form.php:283
+msgid " to"
+msgstr " til"
+
+#: include/views/wclp-edit-location-form.php:303
+msgid "12 hour"
+msgstr "12 timer"
+
+#: include/views/wclp-edit-location-form.php:302
+msgid "24 hour"
+msgstr "24 timer"
+
+#: include/views/wclp_locations_tab.php:53
+msgid "Add Location "
+msgstr "Legg til plassering"
+
+#: include/wc-local-pickup-admin.php:998 include/wc-local-pickup-admin.php:999
+#: include/wc-local-pickup-admin.php:1003
+msgid "Additional content on processing email in case of local pickup orders"
+msgstr ""
+"Tilleggsinnhold ved behandling av e-post i tilfelle lokale hentestillinger"
+
+#: include/views/wclp-edit-location-form.php:62
+msgid "Address"
+msgstr "Adresse"
+
+#: include/views/wclp-edit-location-form.php:111
+msgid "An additional, optional address line for your business location."
+msgstr "En ekstra, valgfri adresselinje for bedriftens beliggenhet."
+
+#: include/wc-local-pickup-admin.php:930
+#: include/views/wclp-edit-location-form.php:433
+msgid "Apply & close"
+msgstr "Påfør og lukk"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:460
+msgid "Background color"
+msgstr "Bakgrunnsfarge"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:120
+#: include/customizer/wclp-pickup-instruction-customizer.php:277
+#: include/customizer/wclp-pickup-instruction-customizer.php:350
+#: include/customizer/wclp-pickup-instruction-customizer.php:365
+#: include/customizer/wclp-pickup-instruction-customizer.php:532
+#: include/views/wclp-edit-location-form.php:180
+msgid "Business Hours"
+msgstr "Arbeidstid"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:358
+msgid "Business Hours header text"
+msgstr "Overskriftstekst for åpningstider"
+
+#: include/wc-local-pickup-admin.php:473
+msgid "Change status to Picked up"
+msgstr "Endre status til Plukket opp"
+
+#: include/wc-local-pickup-admin.php:469
+msgid "Change status to Ready for pickup"
+msgstr "Endre status til Klar for henting"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:509
+msgid "Content font color"
+msgstr "Innholds skriftfarge"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:477
+msgid "Content font size"
+msgstr "Innholds skriftstørrelse"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:525
+msgid "Content line height"
+msgstr "Innholdslinjens høyde"
+
+#: include/wc-local-pickup-admin.php:198 include/wc-local-pickup-admin.php:199
+#: include/views/wclp_setting_tab.php:59 include/views/wclp_setting_tab.php:99
+#| msgid "Customizer"
+msgid "Customize"
+msgstr "Tilpass"
+
+#: include/views/wclp_setting_tab.php:53 include/views/wclp_setting_tab.php:93
+msgid "Dark Font"
+msgstr "Dark Font"
+
+#: include/views/wclp_setting_tab.php:6
+msgid "Display options"
+msgstr "Visningsalternativer"
+
+#: include/views/wclp-edit-location-form.php:297
+msgid "Display Time Format"
+msgstr "Vis tidsformat"
+
+#: include/views/wclp-edit-location-form.php:18
+msgid "Edit Pickup Location"
+msgstr "Rediger henteplassering"
+
+#: include/views/wclp-edit-location-form.php:396
+msgid "From"
+msgstr "Fra"
+
+#: include/wc-local-pickup-admin.php:200 include/wc-local-pickup-admin.php:201
+msgid "Go Pro"
+msgstr "Bli profesjonell"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:380
+msgid "Headers Background color"
+msgstr "Overskrifter Bakgrunnsfarge"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:430
+msgid "Headers font color"
+msgstr "Overskrifter skriftfarge"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:398
+msgid "Headers font size"
+msgstr "Overskrifter skriftstørrelse"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:120
+#: include/emails/ready-pickup-order.php:186
+msgid ""
+"Hi there. we thought you'd like to know that your recent order from "
+"{site_title} has been ready for pickup."
+msgstr ""
+"Hei der. vi trodde du vil vite at den nylige bestillingen din fra "
+"{site_title} har vært klar for henting."
+
+#: include/emails/pickup-order.php:183
+msgid ""
+"Hi {customer_first_name}. Thank you for picking up your {site_title} order "
+"#{order_number}. We hope you enjoyed your shopping experience."
+msgstr ""
+"Hei {customer_first_name}. Takk for at du hentet {site_title} "
+"bestillingsnummeret {order_number}. Vi håper du likte shoppingopplevelsen "
+"din."
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:214
+msgid "Hide Local Pickup Section Heading"
+msgstr "Skjul overskrift for lokal henting"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:316
+msgid "Hide Table Headers"
+msgstr "Skjul topptekster"
+
+#: include/views/wclp_admin_sidebar.php:5
+msgid ""
+"If you enjoy using the Advanced Local Pickup plugin, please take a minute to "
+"share your review"
+msgstr ""
+"Hvis du liker å bruke Plugin for avansert lokal henting, kan du ta et "
+"øyeblikk til å dele anmeldelsen din"
+
+#: include/views/wclp_setting_tab.php:52 include/views/wclp_setting_tab.php:92
+msgid "Light Font"
+msgstr "Lys skrift"
+
+#: include/customizer/wclp-customizer.php:32
+msgid "Local Pickup Order Status Emails"
+msgstr "Lokale hentestillingsstatus-e-post"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:233
+msgid "Local Pickup section heading text"
+msgstr "Lokal pickup seksjon overskriftstekst"
+
+#: include/views/wclp_setting_tab.php:20
+msgid "Local pickup workflow"
+msgstr "Lokal henting arbeidsflyt"
+
+#: include/views/wclp-edit-location-form.php:40
+msgid "Location Name"
+msgstr "Stedsnavn"
+
+#: include/wc-local-pickup-admin.php:1251
+msgid "Mark order as picked up"
+msgstr "Merk ordren som hentet"
+
+#: include/wc-local-pickup-admin.php:1237
+msgid "Mark order as ready for pickup"
+msgstr "Merk ordren som klar for henting"
+
+#: include/wc-local-pickup-admin.php:984
+msgid "My Account (orders history)"
+msgstr "Min konto (ordrehistorikk)"
+
+#: include/views/wclp-edit-location-form.php:24
+msgid "Name & Special Instructions"
+msgstr "Navn og spesielle instruksjoner"
+
+#: include/views/wclp_locations_tab.php:63
+msgid "Need additional pickup locations?"
+msgstr "Trenger du flere hentesteder?"
+
+#: include/wc-local-pickup-admin.php:983
+msgid "Order received page"
+msgstr "Bestill mottatt side"
+
+#: include/wc-local-pickup-admin.php:426 include/wc-local-pickup-admin.php:457
+#: include/views/wclp_setting_tab.php:73
+msgid "Picked up"
+msgstr "Plukket opp"
+
+#: include/emails/pickup-order.php:32
+msgid "Picked up order"
+msgstr "Hentet ordre"
+
+#: include/emails/pickup-order.php:33
+msgid ""
+"Picked up Order emails are sent to customers when their orders are marked "
+"picked up."
+msgstr ""
+"Hentede e-postmeldinger sendes til kunder når deres bestillinger er merket "
+"hentet."
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:119
+#: include/customizer/wclp-pickup-instruction-customizer.php:327
+#: include/customizer/wclp-pickup-instruction-customizer.php:342
+msgid "Pickup Address"
+msgstr "Henteadresse"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:335
+msgid "Pickup address header text"
+msgstr "Tekst for henting av adressehode"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:130
+#: include/customizer/wclp-pickup-instruction-customizer.php:225
+#: include/customizer/wclp-pickup-instruction-customizer.php:239
+#: include/customizer/wc-ready-pickup-email-customizer.php:125
+msgid "Pickup Instruction"
+msgstr "Pickup Instruksjon"
+
+#: include/wc-local-pickup-admin.php:196 include/wc-local-pickup-admin.php:197
+msgid "Pickup Location"
+msgstr "Hentested"
+
+#: include/views/wclp-edit-location-form.php:16
+#: include/views/wclp_locations_tab.php:14
+msgid "Pickup Locations"
+msgstr "Pickup Steder"
+
+#: woo-advanced-local-pickup.php:121
+#, php-format
+msgid ""
+"Please install and activate %sWooCommerce%s for WC local pickup to work!"
+msgstr ""
+"Vennligst installer og aktiver% sWooCommerce% s for at lokal lokal henting "
+"skal fungere!"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:196
+msgid "Please select a order..."
+msgstr "Velg en bestilling ..."
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:192
+msgid "Preview order"
+msgstr "Forhåndsvisning av bestilling"
+
+#: include/wc-local-pickup-admin.php:982
+msgid "Processing order email"
+msgstr "Behandler bestillings-e-post"
+
+#: include/wc-local-pickup-admin.php:414 include/wc-local-pickup-admin.php:450
+msgid "Ready for Pickup"
+msgstr "Klar til å hentes"
+
+#: include/views/wclp_setting_tab.php:33
+msgid "Ready for pickup"
+msgstr "Klar til å hentes"
+
+#: include/emails/ready-pickup-order.php:33
+msgid "Ready for Pickup order"
+msgstr "Klar for henting"
+
+#: include/emails/ready-pickup-order.php:34
+msgid "Ready for Pickup Order emails are sent to customers."
+msgstr "Klar for e-post sendes til kunder."
+
+#: include/views/wclp-edit-location-form.php:27
+#: include/views/wclp-edit-location-form.php:65
+#: include/views/wclp-edit-location-form.php:183
+msgid "Save & close"
+msgstr "Lagre og lukk"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:193
+msgid "Select an order to preview and design the pickup instructions display."
+msgstr "Velg en ordre for å forhåndsvise og utforme skjermbildet for henting."
+
+#: include/customizer/wclp-customizer.php:235
+#: include/customizer/wclp-pickup-instruction-customizer.php:144
+msgid "Select order to preview"
+msgstr "Velg rekkefølge for å forhåndsvise"
+
+#: include/views/wclp-edit-location-form.php:297
+msgid ""
+"Select time format which you want to display in business hours for customers."
+msgstr "Velg tidsformat som du vil vise i åpningstider for kunder."
+
+#: include/views/wclp_setting_tab.php:57 include/views/wclp_setting_tab.php:97
+msgid "Send Email"
+msgstr "Send e-post"
+
+#: include/views/wclp_setting_tab.php:4
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: include/views/wclp-edit-location-form.php:50
+msgid "Special Instruction"
+msgstr "Spesiell instruksjon"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:254
+msgid "Table Border color"
+msgstr "Bordfargefarge"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:270
+msgid "Table Border size"
+msgstr "Bordstørrelse"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:445
+msgid "TABLE CONTENT"
+msgstr "TABELINNHOLD"
+
+#: include/customizer/wclp-pickup-instruction-customizer.php:300
+msgid "TABLE HEADERS"
+msgstr "BORDHOVEDER"
+
+#. Description of the plugin
+msgid ""
+"The Advanced Local Pickup (ALP) helps you handle local pickup orders more "
+"conveniently by extending the WooCommerce Local Pickup shipping method."
+msgstr ""
+"Advanced Local Pickup (ALP) hjelper deg med å håndtere lokale "
+"pickupbestillinger lettere ved å utvide WooCommerce Local Pickup-"
+"forsendelsesmetoden."
+
+#: include/views/wclp-edit-location-form.php:40
+msgid "The location name for your business location."
+msgstr "Stedsnavnet for virksomhetsstedet ditt."
+
+#: include/views/wclp-edit-location-form.php:312
+msgid "the select for working days of your store."
+msgstr "velg for arbeidsdager i butikken din."
+
+#: include/views/wclp-edit-location-form.php:50
+msgid "The special instruction for your store."
+msgstr "Den spesielle instruksjonen for butikken din."
+
+#: woo-advanced-local-pickup.php:542
+#, php-format
+msgid ""
+"We detected %s orders that use the Picked up order status, You can reassign "
+"these orders to a different status"
+msgstr ""
+"Vi oppdaget% s bestillinger som bruker statusen Plukket ordre. Du kan "
+"tilordne disse ordrene til en annen status"
+
+#: woo-advanced-local-pickup.php:530
+#, php-format
+msgid ""
+"We detected %s orders that use the Ready for pickup order status, You can "
+"reassign these orders to a different status"
+msgstr ""
+"Vi oppdaget% s bestillinger som bruker statusen Klar for henting. Du kan "
+"tilordne disse ordrene til en annen status"
+
+#: include/views/wclp-edit-location-form.php:312
+msgid "Work Hours"
+msgstr "Arbeidstimer"
+
+#: include/views/wclp-edit-location-form.php:44
+msgid "you must add location name and save to proceed"
+msgstr "du må legge til stedsnavn og lagre for å fortsette"
+
+#: include/wc-local-pickup-admin.php:1002
+msgid "You will receive an email when your order is ready for pickup."
+msgstr "Du vil motta en e-post når bestillingen er klar for henting."
+
+#: include/emails/pickup-order.php:99
+msgid "You've Got it!"
+msgstr "Du har det!"
+
+#: include/views/wclp_admin_sidebar.php:4
+msgid "Your Opinion Meters!"
+msgstr "Dine synspunkter måler!"
+
+#: include/emails/pickup-order.php:89
+msgid "Your order from {site_title} was picked up"
+msgstr "Bestillingen din fra {site_title} ble hentet"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:119
+#: include/emails/ready-pickup-order.php:101
+msgid "Your Order is Ready for pickup"
+msgstr "Bestillingen din er klar for henting"
+
+#: include/customizer/wc-ready-pickup-email-customizer.php:118
+#: include/emails/ready-pickup-order.php:91
+msgid "Your {site_title} order is now Ready for pickup"
+msgstr "Bestillingen din på {site_title} er nå klar for henting"
